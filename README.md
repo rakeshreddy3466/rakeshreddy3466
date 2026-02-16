@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Karri Rakesh Reddy and I'm a Masters Student at Blekinge Institute of Technology, Karlskrona</h2>
+<h2 align="left">Hi 👋! I'm Karri Rakesh Reddy, a Software Engineering Master's Student at BTH with a focus on AI & Automation.</h2>
 
 ###
 
