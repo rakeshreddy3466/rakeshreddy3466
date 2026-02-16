@@ -4,17 +4,17 @@
 
 <h3>🚀 Featured Projects</h3>
 
+- **🤖 Autonomous AI Workflow Orchestrator**
+  <br>Engineered production-grade <b>n8n</b> pipelines for diverse use cases: an <b>AI Job Agent</b> that scores listings via Gemini & Apify, and an <b>Enterprise Lead System</b> that orchestrates PhantomBuster, Apollo, and HubSpot for automated CRM syncing.
+  <br><i>Tech: n8n, OpenAI/Gemini, PhantomBuster, Apify, HubSpot, Webhooks</i>
+
 - **🛡️ Autonomous AI Agent Defense**
-  <br>Developed a multi-agent system simulating cyberattacks to test and improve enterprise AI security resilience.
+  <br>Developed a multi-agent system simulating cyberattacks (payload obfuscation, injection) to test and improve enterprise AI security resilience.
   <br><i>Tech: Python, LLMs, AI Agents, Risk Detection</i>
 
 - **📱 RecklamRadar (Smart Shopping App)**
-  <br>A real-time mobile app connecting users with local store deals and offers, featuring a dynamic admin panel.
+  <br>A real-time mobile app connecting users with local store deals and offers, featuring a dynamic admin panel and live location services.
   <br><i>Tech: Flutter, Dart, Firebase, Google Maps API</i>
-
-- **🤖 AI Workflow Orchestrator**
-  <br>An autonomous n8n pipeline that reads emails, extracts leads using OpenAI, and manages follow-up tasks automatically.
-  <br><i>Tech: n8n, OpenAI API, Webhooks, Automation</i>
 
 ###
 
