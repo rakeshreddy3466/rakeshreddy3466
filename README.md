@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Karri Rakesh Reddy and I'm a Student at Blekinge Institute of Technology, Karlskrona</h2>
+<h2 align="left">Hi 👋! My name is Karri Rakesh Reddy and I'm a Masters Student at Blekinge Institute of Technology, Karlskrona</h2>
 
 ###
 
