@@ -2,13 +2,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rakeshreddy3466&show_icons=true&theme=dracula&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rakeshreddy3466&layout=compact&langs_count=6&theme=dracula&hide_border=true" height="150" alt="languages graph" />
-</div>
-
-###
-
 <div align="left">
   <h3>🛠️ AI & Automation</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
