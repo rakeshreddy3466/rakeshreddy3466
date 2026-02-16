@@ -2,6 +2,22 @@
 
 ###
 
+<h3>🚀 Featured Projects</h3>
+
+- **🛡️ Autonomous AI Agent Defense**
+  <br>Developed a multi-agent system simulating cyberattacks to test and improve enterprise AI security resilience.
+  <br><i>Tech: Python, LLMs, AI Agents, Risk Detection</i>
+
+- **📱 RecklamRadar (Smart Shopping App)**
+  <br>A real-time mobile app connecting users with local store deals and offers, featuring a dynamic admin panel.
+  <br><i>Tech: Flutter, Dart, Firebase, Google Maps API</i>
+
+- **🤖 AI Workflow Orchestrator**
+  <br>An autonomous n8n pipeline that reads emails, extracts leads using OpenAI, and manages follow-up tasks automatically.
+  <br><i>Tech: n8n, OpenAI API, Webhooks, Automation</i>
+
+###
+
 <div align="left">
   <h3>🛠️ AI & Automation</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
